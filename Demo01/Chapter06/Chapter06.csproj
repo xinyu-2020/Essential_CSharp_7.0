@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F446BBF-CDAB-4C6F-B914-06925ED710C8}</ProjectGuid>
+    <ProjectGuid>{98A96ADE-3964-42BE-A7C2-C8781EE98E0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter05</RootNamespace>
-    <AssemblyName>Chapter05</AssemblyName>
+    <RootNamespace>Chapter06</RootNamespace>
+    <AssemblyName>Chapter06</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chapter05.Class14</StartupObject>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,19 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class01.cs" />
-    <Compile Include="Class02.cs" />
-    <Compile Include="Class03.cs" />
-    <Compile Include="Class04.cs" />
-    <Compile Include="Class05.cs" />
-    <Compile Include="Class06.cs" />
-    <Compile Include="Class07.cs" />
-    <Compile Include="Class08.cs" />
-    <Compile Include="Class09.cs" />
-    <Compile Include="Class10.cs" />
-    <Compile Include="Class11.cs" />
-    <Compile Include="Class12.cs" />
-    <Compile Include="Class13.cs" />
-    <Compile Include="Class14.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

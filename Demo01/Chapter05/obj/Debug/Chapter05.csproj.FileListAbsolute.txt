@@ -1,0 +1,8 @@
+D:\C#\代码\Demo01\Chapter05\bin\Debug\Chapter05.exe.config
+D:\C#\代码\Demo01\Chapter05\bin\Debug\Chapter05.exe
+D:\C#\代码\Demo01\Chapter05\bin\Debug\Chapter05.pdb
+D:\C#\代码\Demo01\Chapter05\obj\Debug\Chapter05.csproj.AssemblyReference.cache
+D:\C#\代码\Demo01\Chapter05\obj\Debug\Chapter05.csproj.SuggestedBindingRedirects.cache
+D:\C#\代码\Demo01\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+D:\C#\代码\Demo01\Chapter05\obj\Debug\Chapter05.exe
+D:\C#\代码\Demo01\Chapter05\obj\Debug\Chapter05.pdb
