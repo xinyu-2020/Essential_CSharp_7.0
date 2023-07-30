@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{98A96ADE-3964-42BE-A7C2-C8781EE98E0F}</ProjectGuid>
+    <ProjectGuid>{393AB0D5-484E-4CA4-9D72-87F2392C8272}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter06</RootNamespace>
-    <AssemblyName>Chapter06</AssemblyName>
+    <RootNamespace>Chapter07</RootNamespace>
+    <AssemblyName>Chapter07</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Chapter06.Class02</StartupObject>
+    <StartupObject>Chapter07.Class01</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class01.cs" />
-    <Compile Include="Class02.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
